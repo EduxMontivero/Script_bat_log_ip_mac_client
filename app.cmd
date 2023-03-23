@@ -1,16 +1,10 @@
 @echo off
 :loop
-start notepad.exe
-echo  ........................................................................................................
-ipconfig /all | findstr Direcc
-echo    DateTime. . . . . . . . . . . . . . . . . : %date% - %time%
-:: aca hacer ping y mandar por get datos a server
-ping -n 10 127.0.0.1 > nul
-taskkill /f /im notepad.exe > nul
+::falta que grabe la mac
+for /f "tokens=2 delims=:" %%f in ('ipconfig /all ^| findstr /c:"Direcc"') do set IP=%%f
+set direccion=http://prestadoresosunlar.unlar.edu.ar:88/log_compus/index.php?info=%IP%
+set cadena_sin_espacios=%direccion: =%
+curl %cadena_sin_espacios%
+echo %cadena_sin_espacios%
+ping -n 60 127.0.0.1 > nul
 goto loop
-
-::ipconfig | findstr IPv4
-::ipconfig | findstr "Nombre de host"
-
-::echo Extrayendo IP y MAC
-::ipconfig
