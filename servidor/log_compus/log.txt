@@ -1,0 +1,49 @@
+hola 2023-03-23 08:55:13 192.168.1.20
+hola 2023-03-23 08:55:26 192.168.1.20
+hola 2023-03-23 08:59:40 192.168.1.20
+hola 2023-03-23 08:59:44 192.168.1.20
+tag: registro de cpu 2023-03-23 09:01:32 192.168.1.20
+tag: registro de cpu 2023-03-23 09:03:19 192.168.1.24
+tag: registro de cpu 2023-03-23 09:07:37 holaedux
+tag: registro de cpu 2023-03-23 09:10:43 holaeduxdesdeeldemonio
+tag: registro de cpu 2023-03-23 09:12:31 holaeduxdesdeeldemonio
+tag: registro de cpu 2023-03-23 09:12:41 holaeduxdesdeeldemonio
+tag: registro de cpu 2023-03-23 09:12:59 holaeduxdesdeeldemonio
+tag: registro de cpu 2023-03-23 09:14:33 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:14:44 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:14:53 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:02 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:11 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:20 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:29 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:38 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:15:48 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:30:43 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:30:52 holaeduxsoyeldaemon
+tag: registro de cpu 2023-03-23 09:37:54 
+tag: registro de cpu 2023-03-23 09:38:16 
+tag: registro de cpu 2023-03-23 09:53:44 
+tag: registro de cpu 2023-03-23 09:53:53 
+tag: registro de cpu 2023-03-23 09:56:09 
+tag: registro de cpu 2023-03-23 09:56:18 
+tag: registro de cpu 2023-03-23 10:02:56 
+tag: registro de cpu 2023-03-23 10:03:05 
+tag: registro de cpu 2023-03-23 10:03:53 
+tag: registro de cpu 2023-03-23 10:04:02 
+tag: registro de cpu 2023-03-23 10:04:51 
+tag: registro de cpu 2023-03-23 10:05:00 
+tag: registro de cpu 2023-03-23 10:13:09 
+tag: registro de cpu 2023-03-23 10:13:18 
+tag: registro de cpu 2023-03-23 10:13:27 
+tag: registro de cpu 2023-03-23 10:14:13 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:14:23 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:26:50 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:26:59 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:27:28 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:28:08 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:28:18 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:28:32 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:28:41 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:37:26 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:37:35 10.200.40.121(Preferido)
+tag: registro de cpu 2023-03-23 10:37:44 10.200.40.121(Preferido)
